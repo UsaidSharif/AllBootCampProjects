@@ -1,0 +1,11 @@
+C:\Users\4141\source\repos\A2_Q5(updated)\A2_Q5(updated)\bin\Debug\netcoreapp3.0\A2_Q5(updated).exe
+C:\Users\4141\source\repos\A2_Q5(updated)\A2_Q5(updated)\bin\Debug\netcoreapp3.0\A2_Q5(updated).deps.json
+C:\Users\4141\source\repos\A2_Q5(updated)\A2_Q5(updated)\bin\Debug\netcoreapp3.0\A2_Q5(updated).runtimeconfig.json
+C:\Users\4141\source\repos\A2_Q5(updated)\A2_Q5(updated)\bin\Debug\netcoreapp3.0\A2_Q5(updated).runtimeconfig.dev.json
+C:\Users\4141\source\repos\A2_Q5(updated)\A2_Q5(updated)\bin\Debug\netcoreapp3.0\A2_Q5(updated).dll
+C:\Users\4141\source\repos\A2_Q5(updated)\A2_Q5(updated)\bin\Debug\netcoreapp3.0\A2_Q5(updated).pdb
+C:\Users\4141\source\repos\A2_Q5(updated)\A2_Q5(updated)\obj\Debug\netcoreapp3.0\A2_Q5(updated).csprojAssemblyReference.cache
+C:\Users\4141\source\repos\A2_Q5(updated)\A2_Q5(updated)\obj\Debug\netcoreapp3.0\A2_Q5(updated).AssemblyInfoInputs.cache
+C:\Users\4141\source\repos\A2_Q5(updated)\A2_Q5(updated)\obj\Debug\netcoreapp3.0\A2_Q5(updated).AssemblyInfo.cs
+C:\Users\4141\source\repos\A2_Q5(updated)\A2_Q5(updated)\obj\Debug\netcoreapp3.0\A2_Q5(updated).dll
+C:\Users\4141\source\repos\A2_Q5(updated)\A2_Q5(updated)\obj\Debug\netcoreapp3.0\A2_Q5(updated).pdb

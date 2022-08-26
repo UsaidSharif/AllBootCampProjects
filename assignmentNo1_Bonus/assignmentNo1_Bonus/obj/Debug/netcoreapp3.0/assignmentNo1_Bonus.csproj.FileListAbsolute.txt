@@ -1,0 +1,11 @@
+C:\Users\4141\source\repos\assignmentNo1_Bonus\assignmentNo1_Bonus\bin\Debug\netcoreapp3.0\assignmentNo1_Bonus.exe
+C:\Users\4141\source\repos\assignmentNo1_Bonus\assignmentNo1_Bonus\bin\Debug\netcoreapp3.0\assignmentNo1_Bonus.deps.json
+C:\Users\4141\source\repos\assignmentNo1_Bonus\assignmentNo1_Bonus\bin\Debug\netcoreapp3.0\assignmentNo1_Bonus.runtimeconfig.json
+C:\Users\4141\source\repos\assignmentNo1_Bonus\assignmentNo1_Bonus\bin\Debug\netcoreapp3.0\assignmentNo1_Bonus.runtimeconfig.dev.json
+C:\Users\4141\source\repos\assignmentNo1_Bonus\assignmentNo1_Bonus\bin\Debug\netcoreapp3.0\assignmentNo1_Bonus.dll
+C:\Users\4141\source\repos\assignmentNo1_Bonus\assignmentNo1_Bonus\bin\Debug\netcoreapp3.0\assignmentNo1_Bonus.pdb
+C:\Users\4141\source\repos\assignmentNo1_Bonus\assignmentNo1_Bonus\obj\Debug\netcoreapp3.0\assignmentNo1_Bonus.AssemblyInfoInputs.cache
+C:\Users\4141\source\repos\assignmentNo1_Bonus\assignmentNo1_Bonus\obj\Debug\netcoreapp3.0\assignmentNo1_Bonus.AssemblyInfo.cs
+C:\Users\4141\source\repos\assignmentNo1_Bonus\assignmentNo1_Bonus\obj\Debug\netcoreapp3.0\assignmentNo1_Bonus.dll
+C:\Users\4141\source\repos\assignmentNo1_Bonus\assignmentNo1_Bonus\obj\Debug\netcoreapp3.0\assignmentNo1_Bonus.pdb
+C:\Users\4141\source\repos\assignmentNo1_Bonus\assignmentNo1_Bonus\obj\Debug\netcoreapp3.0\assignmentNo1_Bonus.csprojAssemblyReference.cache

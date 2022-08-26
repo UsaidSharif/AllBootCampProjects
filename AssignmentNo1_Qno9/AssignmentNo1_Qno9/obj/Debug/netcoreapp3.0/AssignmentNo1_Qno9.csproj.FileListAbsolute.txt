@@ -1,0 +1,11 @@
+C:\Users\4141\source\repos\AssignmentNo1_Qno9\AssignmentNo1_Qno9\bin\Debug\netcoreapp3.0\AssignmentNo1_Qno9.exe
+C:\Users\4141\source\repos\AssignmentNo1_Qno9\AssignmentNo1_Qno9\bin\Debug\netcoreapp3.0\AssignmentNo1_Qno9.deps.json
+C:\Users\4141\source\repos\AssignmentNo1_Qno9\AssignmentNo1_Qno9\bin\Debug\netcoreapp3.0\AssignmentNo1_Qno9.runtimeconfig.json
+C:\Users\4141\source\repos\AssignmentNo1_Qno9\AssignmentNo1_Qno9\bin\Debug\netcoreapp3.0\AssignmentNo1_Qno9.runtimeconfig.dev.json
+C:\Users\4141\source\repos\AssignmentNo1_Qno9\AssignmentNo1_Qno9\bin\Debug\netcoreapp3.0\AssignmentNo1_Qno9.dll
+C:\Users\4141\source\repos\AssignmentNo1_Qno9\AssignmentNo1_Qno9\bin\Debug\netcoreapp3.0\AssignmentNo1_Qno9.pdb
+C:\Users\4141\source\repos\AssignmentNo1_Qno9\AssignmentNo1_Qno9\obj\Debug\netcoreapp3.0\AssignmentNo1_Qno9.csprojAssemblyReference.cache
+C:\Users\4141\source\repos\AssignmentNo1_Qno9\AssignmentNo1_Qno9\obj\Debug\netcoreapp3.0\AssignmentNo1_Qno9.AssemblyInfoInputs.cache
+C:\Users\4141\source\repos\AssignmentNo1_Qno9\AssignmentNo1_Qno9\obj\Debug\netcoreapp3.0\AssignmentNo1_Qno9.AssemblyInfo.cs
+C:\Users\4141\source\repos\AssignmentNo1_Qno9\AssignmentNo1_Qno9\obj\Debug\netcoreapp3.0\AssignmentNo1_Qno9.dll
+C:\Users\4141\source\repos\AssignmentNo1_Qno9\AssignmentNo1_Qno9\obj\Debug\netcoreapp3.0\AssignmentNo1_Qno9.pdb
